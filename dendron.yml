@@ -21,6 +21,7 @@ site:
     siteRootDir: docs
     usePrettyRefs: true
     title: Dendron
+    siteUrl: https://philippolis.github.io/
     description: Personal knowledge space
     duplicateNoteBehavior:
         action: useVault
