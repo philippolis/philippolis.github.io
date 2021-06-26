@@ -20,9 +20,9 @@ site:
         - root
     siteRootDir: docs
     usePrettyRefs: true
-    title: Dendron
+    title: Philipp
     siteUrl: https://philippolis.github.io/
-    description: Personal knowledge space
+    description: Project Overview
     duplicateNoteBehavior:
         action: useVault
         payload:
