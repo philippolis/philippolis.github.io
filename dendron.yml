@@ -20,7 +20,7 @@ site:
         - avocado
     siteRootDir: docs
     usePrettyRefs: true
-    title: Philipp
+    title: Avocado project
     siteUrl: https://philippolis.github.io/
     description: Project Overview
     duplicateNoteBehavior:
