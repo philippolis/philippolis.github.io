@@ -17,7 +17,7 @@ journal:
 site:
     copyAssets: true
     siteHierarchies: 
-        - Avocado
+        - avocado
     siteRootDir: docs
     usePrettyRefs: true
     title: Philipp
