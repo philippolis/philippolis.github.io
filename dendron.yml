@@ -16,8 +16,8 @@ journal:
     firstDayOfWeek: 1
 site:
     copyAssets: true
-    siteHierarchies:
-        - root
+    siteHierarchies: 
+        - Avocado
     siteRootDir: docs
     usePrettyRefs: true
     title: Philipp
